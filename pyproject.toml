@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "suma-resta"
+version = "0.1.0"
+description = "juego de suma y resta reflex-python"
+authors = ["Your Name <you@example.com>"]
+license = "legal"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
