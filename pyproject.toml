@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "suma-resta"
+name = "reflex"
 version = "0.1.0"
 description = "juego de suma y resta reflex-python"
 authors = ["Your Name <you@example.com>"]
